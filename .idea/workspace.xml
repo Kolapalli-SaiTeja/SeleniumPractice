@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a59cf6f-4e18-4af3-80ac-d0a9a7bf2e21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc03_Adblock.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kK6gqUxjcnINo0khc5b8KN3HbQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumJourney [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumJourney [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumJourney [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.TC01.tc01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC01.tc01Negative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.tc01.google.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.tc02.TryingEdgeOptions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.tc02.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.tc03_Adblock.AddingAdBlock.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.testing.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24390244&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.TC01.tc01Negative">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Lycan/IdeaProjects/Selenium Journey/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01.tc01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.TC01" />
+      <option name="METHOD_NAME" value="tc01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01.tc01Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.TC01" />
+      <option name="METHOD_NAME" value="tc01Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tc02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practiceSelenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.practiceSelenium" />
+      <option name="MAIN_CLASS_NAME" value="org.practiceSelenium.tc02" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tc03_Adblock.AddingAdBlock" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practiceSelenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.practiceSelenium" />
+      <option name="MAIN_CLASS_NAME" value="org.practiceSelenium.tc03_Adblock" />
+      <option name="METHOD_NAME" value="AddingAdBlock" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC01.tc01Negative" />
+        <item itemvalue="TestNG.TC01.tc01" />
+        <item itemvalue="TestNG.tc03_Adblock.AddingAdBlock" />
+        <item itemvalue="TestNG.C:/Users/Lycan/IdeaProjects/Selenium Journey/testng.xml" />
+        <item itemvalue="TestNG.tc02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a59cf6f-4e18-4af3-80ac-d0a9a7bf2e21" name="Changes" comment="" />
+      <created>1722955864975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722955864975</updated>
+    </task>
+    <servers />
+  </component>
+</project>
