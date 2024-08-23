@@ -1,0 +1,1 @@
+{"uuid":"be9d1812-de0e-4592-9ecd-3c03129c95b0","name":"Selenium.Mini2.closing","children":["30f9121a-89d0-4be1-b788-0761bc1ed23f"],"description":"","befores":[],"afters":[{"name":"closing","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723539383318,"stop":1723539383430}],"start":1723539383317,"stop":1723539383430}

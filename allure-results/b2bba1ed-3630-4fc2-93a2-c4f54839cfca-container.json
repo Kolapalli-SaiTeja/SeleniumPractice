@@ -1,0 +1,1 @@
+{"uuid":"b2bba1ed-3630-4fc2-93a2-c4f54839cfca","name":"Selenium.Mini2.before","children":["2abc3c92-cdcc-45ec-b60f-2ade628f12be"],"description":"","befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723540723380,"stop":1723540726438}],"afters":[],"start":1723540723379,"stop":1723540726438}

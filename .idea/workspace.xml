@@ -4,17 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a59cf6f-4e18-4af3-80ac-d0a9a7bf2e21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/practiceSelenium/tc03_Adblock.java" afterDir="false" />
+    <list default="true" id="0a59cf6f-4e18-4af3-80ac-d0a9a7bf2e21" name="Changes" comment="8.8.8">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Actions_MakeMyTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Flipkart_Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/LinkText_PartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Mini2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/MiniProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/SVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/SVG_Map_Proj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/SVG_Youtube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/ShadowDom_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/ShadowDom_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/WebTable_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/WebTable_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/WebtTable_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/TC01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/TC01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.23.0/selenium-api-4.23.0.jar!/org/openqa/selenium/WebDriver.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -43,34 +54,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SeleniumJourney [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SeleniumJourney [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SeleniumJourney [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.TC01.tc01.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC01.tc01Negative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.tc01.google.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.tc02.TryingEdgeOptions.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.tc02.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.tc03_Adblock.AddingAdBlock.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24390244&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.SeleniumJourney [clean].executor": "Run",
+    "Maven.SeleniumJourney [compile].executor": "Run",
+    "Maven.SeleniumJourney [install].executor": "Run",
+    "Maven.SeleniumJourney [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Actions_1.Actions.executor": "Run",
+    "TestNG.Actions_MakeMyTrip.Actions.executor": "Run",
+    "TestNG.Actions_MakeMyTrip.executor": "Run",
+    "TestNG.Alerts.JSPrompt.executor": "Run",
+    "TestNG.Alerts.alerts.executor": "Run",
+    "TestNG.Alerts.confirmationAlert.executor": "Run",
+    "TestNG.Alerts.executor": "Run",
+    "TestNG.CheckBoxes.checkboxes.executor": "Run",
+    "TestNG.Flipkart_Project.testPositive.executor": "Run",
+    "TestNG.LinkText_PartialLinkText.ltPt.executor": "Run",
+    "TestNG.Mini2.executor": "Run",
+    "TestNG.Mini2.testPositive.executor": "Run",
+    "TestNG.MiniProject.executor": "Run",
+    "TestNG.MiniProject.project.executor": "Run",
+    "TestNG.SVG.executor": "Run",
+    "TestNG.SVG.testPositive.executor": "Run",
+    "TestNG.SVG_Map_Proj.testPositive.executor": "Run",
+    "TestNG.SVG_Youtube.testPositive.executor": "Run",
+    "TestNG.ShadowDom_1.executor": "Run",
+    "TestNG.ShadowDom_1.testPositive.executor": "Run",
+    "TestNG.ShadowDom_2.testPositive.executor": "Run",
+    "TestNG.TC01.tc01.executor": "Run",
+    "TestNG.TC01.tc01Negative.executor": "Run",
+    "TestNG.Waits.appvwo.executor": "Run",
+    "TestNG.Waits.executor": "Debug",
+    "TestNG.Waits.project.executor": "Run",
+    "TestNG.WebTable.Webtable.executor": "Run",
+    "TestNG.WebTable_1.Webtable.executor": "Run",
+    "TestNG.WebTable_2.webtable.executor": "Run",
+    "TestNG.WebtTable_3.executor": "Run",
+    "TestNG.WebtTable_3.webtable.executor": "Run",
+    "TestNG.tc01.google.executor": "Run",
+    "TestNG.tc02.TryingEdgeOptions.executor": "Run",
+    "TestNG.tc02.executor": "Run",
+    "TestNG.tc03_Adblock.AddingAdBlock.executor": "Run",
+    "TestNG.testing.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.24390244"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.TC01.tc01Negative">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Actions_MakeMyTrip.Actions">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,17 +128,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Lycan/IdeaProjects/Selenium Journey/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumJourney" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC01.tc01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_1.Actions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumJourney" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +137,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.TC01" />
-      <option name="METHOD_NAME" value="tc01" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_1" />
+      <option name="METHOD_NAME" value="Actions" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -110,7 +146,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC01.tc01Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_MakeMyTrip" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumJourney" />
       <extension name="coverage">
         <pattern>
@@ -119,25 +155,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.TC01" />
-      <option name="METHOD_NAME" value="tc01Negative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tc02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumJourney" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.practiceSelenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.practiceSelenium" />
-      <option name="MAIN_CLASS_NAME" value="org.practiceSelenium.tc02" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_MakeMyTrip" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -145,17 +163,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tc03_Adblock.AddingAdBlock" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_MakeMyTrip.Actions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumJourney" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.practiceSelenium.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.practiceSelenium" />
-      <option name="MAIN_CLASS_NAME" value="org.practiceSelenium.tc03_Adblock" />
-      <option name="METHOD_NAME" value="AddingAdBlock" />
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_MakeMyTrip" />
+      <option name="METHOD_NAME" value="Actions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowDom_1.testPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.ShadowDom_1" />
+      <option name="METHOD_NAME" value="testPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowDom_2.testPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.ShadowDom_2" />
+      <option name="METHOD_NAME" value="testPositive" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -165,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC01.tc01Negative" />
-        <item itemvalue="TestNG.TC01.tc01" />
-        <item itemvalue="TestNG.tc03_Adblock.AddingAdBlock" />
-        <item itemvalue="TestNG.C:/Users/Lycan/IdeaProjects/Selenium Journey/testng.xml" />
-        <item itemvalue="TestNG.tc02" />
+        <item itemvalue="TestNG.Actions_MakeMyTrip.Actions" />
+        <item itemvalue="TestNG.Actions_MakeMyTrip" />
+        <item itemvalue="TestNG.Actions_1.Actions" />
+        <item itemvalue="TestNG.ShadowDom_2.testPositive" />
+        <item itemvalue="TestNG.ShadowDom_1.testPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +245,26 @@
       <option name="presentableId" value="Default" />
       <updated>1722955864975</updated>
     </task>
+    <task id="LOCAL-00001" summary="8.8.8">
+      <option name="closed" value="true" />
+      <created>1723104967669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723104967669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8.8.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.8.8" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="((RemoteWebElement)element1).foundBy" custom="org.openqa.selenium.remote.RemoteWebElement" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
